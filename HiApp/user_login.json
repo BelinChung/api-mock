@@ -1,0 +1,16 @@
+{
+    "err_code": 0,
+    "err_msg": "success",
+    "data": {
+        "sid": "e651771fe37dc17c17421331a87721",
+        "user": {
+            "id": 10001,
+            "login_name": "hiapp@hiliaox.com",
+            "nick_name": "HiApp",
+            "points": 267,
+            "avatar_url": "https://raw.githubusercontent.com/BelinChung/api-mock/master/assets/avatar_hi.png",
+            "gender": "m",
+            "location": "Guangzhou China"
+        }
+    }
+}
