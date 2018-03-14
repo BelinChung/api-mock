@@ -3,55 +3,77 @@
     "err_msg": "success",
     "data": [
         {
+            "mid": "10001",
             "text": "Hey, Blue Ninja! Glad to see you ;)",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-12 10:01:00"
         },
         {
+            "mid": "10002",
             "text": "What do you think about my new logo?",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-12 10:02:10"
         },
         {
-            "date":"Wednesday, Feb 12, 19:33",
+            "mid": "10003",
             "text": "Hey? Any thoughts about my new logo?",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-14 14:11:00"
         },
         {
-            "date": "Thursday, Feb 13, 11:20",
+            "mid": "10004",
             "text": "Alo...",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-14 14:12:10"
         },
         {
+            "mid": "10005",
             "text": "Are you there?",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-14 14:13:00"
         },
         {
+            "mid": "10006",
             "text": "Hi, i am here",
-            "from": "received"
+            "from": "Alo",
+            "time": "2018-01-14 14:15:00"
         },
         {
+            "mid": "10007",
             "text": "Your logo is great",
-            "from": "received"
+            "from": "Alo",
+            "time": "2018-01-14 14:16:20"
         },
         {
+            "mid": "10008",
             "text": "Leave me alone!",
-            "from": "received"
+            "from": "Alo",
+            "time": "2018-01-14 14:17:00"
         },
         {
+            "mid": "10009",
             "text": ":(",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-14 14:18:00"
         },
         {
+            "mid": "10010",
             "text": "Hey, look, cutest kitten ever!",
-            "from": "sent"
+            "from": "Ninja",
+            "time": "2018-01-14 16:01:00"
         },
         {
-            "text": "http://lorempixel.com/1000/700/nature/5/",
-            "image": true,
-            "from": "sent"
+            "mid": "10011",
+            "text": "look!",
+            "image_url": "https://loremflickr.com/300/200/cat",
+            "from": "Ninja",
+            "time": "2018-01-14 16:02:00"
         },
         {
+            "mid": "10012",
             "text": "Er...",
-            "from": "received"
+            "from": "Alo",
+            "time": "2018-01-14 16:03:00"
         }
     ]
 }
