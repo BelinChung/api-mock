@@ -8,6 +8,8 @@
             "avatar":"1",
             "text": "Behind every successful man there's a lot u unsuccessful years. https://www.google.com/",
             "original_pic": "",
+            "like_count": 1,
+            "comment_count": 2,
             "created_at": "1504709434"
         },
         {
@@ -16,6 +18,8 @@
             "avatar":"7",
             "text": "I think success has no rules, but you can learn a lot from failure. ",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504708544"
         },
         {
@@ -24,6 +28,8 @@
             "avatar":"3",
             "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure. www.youtube.com ",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 2,
             "created_at": "1504708455"
         },
         {
@@ -32,6 +38,8 @@
             "avatar":"5",
             "text": "There is no such thing as a great talent without great will - power.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=5",
+            "like_count": 2,
+            "comment_count": 0,
             "created_at": "1504707590"
         },
         {
@@ -40,6 +48,8 @@
             "avatar":"7",
             "text": "You have to believe in yourself. That's the secret of success.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504707580"
         },
         {
@@ -48,6 +58,8 @@
             "avatar":"4",
             "text": "Our destiny offers not the cup of despair, but the chalice of opportunity. So let us seize it, not in fear, but in gladness.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 1,
             "created_at": "1504707197"
         },
         {
@@ -56,6 +68,8 @@
             "avatar":"8",
             "text": "None is of freedom or of life deserving unless he daily conquers it anew.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=3",
+            "like_count": 1,
+            "comment_count": 0,
             "created_at": "1504706070"
         },
         {
@@ -64,6 +78,8 @@
             "avatar":"3",
             "text": "Living without an aim is like sailing without a compass.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504706060"
         },
         {
@@ -72,6 +88,8 @@
             "avatar":"6",
             "text": "What makes life dreary is the want of motive.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=7",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504705260"
         },
         {
@@ -80,6 +98,8 @@
             "avatar":"6",
             "text": "Towering genius disdains a beaten path. It seeks regions hitherto unexplored.",
             "original_pic": "",
+            "like_count": 1,
+            "comment_count": 1,
             "created_at": "1504705240"
         },
         {
@@ -88,6 +108,8 @@
             "avatar":"10",
             "text": "None is of freedom or of life deserving unless he daily conquers it anew. ",
             "original_pic": "",
+            "like_count": 2,
+            "comment_count": 1,
             "created_at": "1504705133"
         },
         {
@@ -96,6 +118,8 @@
             "avatar":"8",
             "text": "A strong man will struggle with the storms of fate.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504704742"
         }
     ]
