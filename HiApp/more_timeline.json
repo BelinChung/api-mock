@@ -8,6 +8,8 @@
             "avatar":"9",
             "text": "If you're lonely when you're alone, you're in bad company.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=1",
+            "like_count": 1,
+            "comment_count": 0,
             "created_at": "1504700591"
         },
         {
@@ -16,6 +18,8 @@
             "avatar":"08",
             "text": "Your attitude, not your aptitude, will determine your altitude.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504698995"
         },
         {
@@ -24,6 +28,8 @@
             "avatar":"1",
             "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=8",
+            "like_count": 2,
+            "comment_count": 0,
             "created_at": "1504698321"
         },
         {
@@ -32,6 +38,8 @@
             "avatar":"4",
             "text": "When life gets hard and you want to give up, remember that life is full of ups and downs, and without the downs, the ups would mean nothing.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 2,
             "created_at": "1504697858"
         },
         {
@@ -40,6 +48,8 @@
             "avatar":"2",
             "text": "There is only one thing that makes a dream impossible to achieve: the fear of failure.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=7",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504693147"
         },
         {
@@ -48,6 +58,8 @@
             "avatar":"9",
             "text": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
             "original_pic": "",
+            "like_count": 0,
+            "comment_count": 0,
             "created_at": "1504692969"
         }
     ]
